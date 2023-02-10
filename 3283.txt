@@ -1,0 +1,17 @@
+			WELCOME FOOD RETAIL
+
+ BILL NUMBER : 3283
+ CUSTOMER NAME : navneet
+ PHONE NUMBER : 5555555555
+===========================================================
+ PRODUCTS		QUANTITY		PRICE		TOTAL PRICE
+===========================================================
+ Sprite		1000		40		40000
+ Pringles		4096		90		368640
+ Kit Kat		50000		40		2000000
+-----------------------------------------------------------
+ Juice Tax						Rs. 2000.0
+ Chips Tax						Rs. 36864.0
+ chocolate Tax						Rs. 300000.0
+ TOTAL BILL						Rs. 2747504.0
+-----------------------------------------------------------
